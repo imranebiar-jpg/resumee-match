@@ -1,0 +1,5 @@
+{
+  "name": "Resume Match Scorer",
+  "description": "AI-powered tool to analyze resumes against job descriptions, providing match scores, gap analysis, and tailored cover letters.",
+  "requestFramePermissions": []
+}
